@@ -150,4 +150,6 @@ modified_features[:,dim] *= (1-strength)
 
 AI使用说明：本项目使用Qwen3.5-Plus优化报告，了解Transformers库中具体操作的用法，以及部分代码调优，特别鸣谢
 
+
 ## 📝 补充说明
+详细代码见：https://github.com/0wsz0/clip-forgetting-stage2/tree/main
